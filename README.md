@@ -49,6 +49,7 @@ The result is a **real vibration spectrum**: the physical echo of a name that re
 
 ---
 
+
 ## 🔹 Repository Structure
 | File | Description |
 |------|--------------|
@@ -76,6 +77,16 @@ The result is a **real vibration spectrum**: the physical echo of a name that re
 >  every signal is matter speaking back.*  
 
 This project belongs to the **ReliaVib – Spectra of Matter** experimental line, combining predictive-maintenance analytics with human creativity and digital physics.  
+
+---
+
+### 🔹 Figures
+
+**Figure 1 – The engraved word “MathWorks” on glass**  
+![Engraved Plate](Spectra.jpg)
+
+**Figure 2 – Measured vibration while engraving (ReliaVib analysis)**  
+![Vibration Spectrum](MathworksSound.jpg)
 
 ---
 
