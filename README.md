@@ -82,10 +82,10 @@ This project belongs to the **ReliaVib – Spectra of Matter** experimental line
 
 ### 🔹 Figures
 
-**Figure 1 – The engraved word “MathWorks” on glass**  
+**Figure 1 – Measured vibration while engraving**  
 ![Engraved Plate](Spectra.jpg)
 
-**Figure 2 – Measured vibration while engraving (ReliaVib analysis)**  
+**Figure 2 – The engraved word “MathWorks” on glass (ReliaVib analysis)**  
 ![Vibration Spectrum](MathworksSound.jpg)
 
 ---
