@@ -3,6 +3,8 @@
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20MATLAB%20Online-lightgrey)
 ![Data](https://img.shields.io/badge/Data-Vibration%20Spectrum-orange)
 ![License](https://img.shields.io/badge/License-Open-lightgreen)
+![ReliaVib](https://img.shields.io/badge/ReliaVib-Predictive%20Maintenance-blue)
+![ReliaVib](https://img.shields.io/badge/ReliaVib-Smart%20Vibration%20Lab-darkorange)
 
 # 🧠 The Sound of MathWorks  
 ### *ReliaVib Experimental Series – Spectra of Matter*  
