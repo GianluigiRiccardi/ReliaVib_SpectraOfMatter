@@ -1,3 +1,9 @@
+![MATLAB](https://img.shields.io/badge/MATLAB-Mobile%20&%20Desktop-blue?logo=mathworks)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20MATLAB%20Online-lightgrey)
+![Data](https://img.shields.io/badge/Data-Vibration%20Spectrum-orange)
+![License](https://img.shields.io/badge/License-Open-lightgreen)
+
 # 🧠 The Sound of MathWorks  
 ### *ReliaVib Experimental Series – Spectra of Matter*  
 
